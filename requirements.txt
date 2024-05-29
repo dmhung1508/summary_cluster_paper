@@ -1,0 +1,4 @@
+tqdm
+openai
+pymongo
+confluent_kafka
