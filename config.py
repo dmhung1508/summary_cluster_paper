@@ -3,7 +3,7 @@ MODEL_PATH = "VoVanPhuc/sup-SimCSE-VietNamese-phobert-base"
 
 #DATABASE
 
-DB_PATH = f"""mongodb://rootUser:hometag121@178.128.19.31:27017/test?authSource=test&readPreference=primary&directConnection=true&ssl=false"""
+DB_PATH = f""""""
 MAX_INPUT_LENGTH = 256
 MIN_INPUT_LENGTH = 10
 
